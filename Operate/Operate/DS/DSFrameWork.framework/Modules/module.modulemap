@@ -1,0 +1,6 @@
+framework module DSFrameWork {
+  umbrella header "DSFrameWork.h"
+
+  export *
+  module * { export * }
+}

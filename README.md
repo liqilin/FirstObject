@@ -1,2 +1,4 @@
 # FirstObject
 test
+go
+one
